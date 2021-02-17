@@ -73,7 +73,7 @@ namespace Part_3___Keyboard_input
             Console.ReadLine();
             ///
             ///
-            ///need to fix de
+            ///need to fix declarations
 
         }
     }
